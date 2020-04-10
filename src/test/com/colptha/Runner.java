@@ -1,4 +1,4 @@
-package com.colphta;
+package com.colptha;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

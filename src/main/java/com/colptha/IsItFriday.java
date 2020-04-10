@@ -1,4 +1,4 @@
-package com.colphta;
+package com.colptha;
 
 import java.util.HashMap;
 import java.util.Map;
